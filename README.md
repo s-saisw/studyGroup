@@ -3,3 +3,7 @@ Summary of selected chapters from Handbook of Labor Economics (https://www.scien
 
 ## List
 - Chapter 43: Labor Markets in Developing Countries
+
+## Other references
+Related topics not covered in the Handbook.
+- Quantile regression (from Mostly harmless econometrics)
