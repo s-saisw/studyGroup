@@ -9,7 +9,9 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics/volumes
 - Chapter 7: Quantile regression
 
 ## Market, Games, and Strategic Behavior
+- Chapter 10: Market Failure Due to Unraveling: Lemons and Matching Markets (in Japanese)
 - Chapter 11: Asset Markets and Price Bubbles (in Japanese)
+- Chapter 22: Multi-Unit and Combinatorial Auctions (in Japanese)
 
 ## Papers
 - Economic Impact of Social Ties : Burchardi, K. B., & Hassan, T. A. (2013)
