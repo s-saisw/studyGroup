@@ -1,5 +1,5 @@
 # ReadingSummary
-Summary of selected readings from
+Summaries of ...
 
 ## Handbook of Labor Economics
 https://www.sciencedirect.com/handbook/handbook-of-labor-economics/volumes
@@ -14,12 +14,14 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics/volumes
 - Chapter 22: Multi-Unit and Combinatorial Auctions (in Japanese)
 
 ## Papers
-- Economic Impact of Social Ties : Burchardi, K. B., & Hassan, T. A. (2013)
 - Educational Reform, Ability, and Family Background : Meghir, C., & Palme, M. (2005)
 - Minimum wage effects across state borders : Dube, A., Lester, T. W., & Reich, M. (2010)
+- Economic Impact of Social Ties : Burchardi, K. B., & Hassan, T. A. (2013)
+- Effects of the minimum wage on employment dynamics : Meer, J., & West, J. (2016)
 
 ### Behavioral economics
-- Doing It Now or Later : O'Donoghue, T., & Rabin, M. (1999)
 - Procrastination and Obedience : Akerlof, G. A. (1991)
-- Paying Not to Go to the Gym : DellaVigna, S., & Malmendier, U. (2006)
+- Doing It Now or Later : O'Donoghue, T., & Rabin, M. (1999)
 - Procrastination, Deadlines, and Performance: Ariely, D., & Wertenbroch, K. (2002)
+- Paying Not to Go to the Gym : DellaVigna, S., & Malmendier, U. (2006)
+
