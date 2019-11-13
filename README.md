@@ -22,6 +22,7 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics/volumes
 - Effects of the minimum wage on employment dynamics : Meer, J., & West, J. (2016)
 - Minimum wage effects across state borders : Dube, A., Lester, T. W., & Reich, M. (2010)
 - The Highs and Lows of the Minimum Wage Effect : Baker, M., Benjamin, D., & Stanger, S. (1999)
+- Using regional variation in wages to measure the effects of the federal minimum wage : Card, D. (1992)
 
 ### Behavioral economics
 - Paying Not to Go to the Gym : DellaVigna, S., & Malmendier, U. (2006)
