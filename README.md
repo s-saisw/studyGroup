@@ -29,3 +29,6 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics/volumes
 - Procrastination, Deadlines, and Performance: Ariely, D., & Wertenbroch, K. (2002)
 - Doing It Now or Later : O'Donoghue, T., & Rabin, M. (1999)
 - Procrastination and Obedience : Akerlof, G. A. (1991)
+
+### Econometric
+- Revisiting event study designs : Borusyak, K., & Jaravel, X. (2017)
