@@ -5,7 +5,7 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics
 ## Contributor
 
 - Dong-san
-- Tung-san
+- [Tung-san](https://github.com/s-saisw)
 - Ting-san
 - Ike-chan
 - Nume-chan
@@ -22,8 +22,10 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics
 
 ### TO READ
 
+- [Vol.3 Chap.23: Empirical Strategies in Labor Economics](https://www.sciencedirect.com/science/article/pii/S1573446399030047)
 - [Vol.3 Chap.50: Health, health insurance and the labor market](https://www.sciencedirect.com/science/article/abs/pii/S1573446399300419)
 - [Vol.4 Chap.17: New Perspectives on Gender](https://www.sciencedirect.com/science/article/pii/S0169721811024154)
+- [Vol.4 Chap.20: Personnel Economics: Hiring and Incentives](https://www.sciencedirect.com/science/article/pii/S016972181102418X)
 
 ### SOMEDAY
 
@@ -36,4 +38,5 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics
 |:--:|:--:|:--:|
 | ~~2019/09~~ (DONE) | Dong, Tung| Vol.2 Chap.21, Vol.3 Chap.43 |  
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11, Vol.4 Chap 16, Vol.4 Chap.15 |  
-| 2020/02/17 Moring | Dong, Nume, (Ting) | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), TBA |   
+| 2020/02/17 Morning | Dong, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
+| 2020/03/?? Morning? | Tung, Ike | Vol.3 Chap.23, TBA | 
