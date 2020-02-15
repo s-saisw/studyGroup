@@ -1,6 +1,7 @@
 # Reading Group: Handbook of Labor Economics
 
-https://www.sciencedirect.com/handbook/handbook-of-labor-economics
+We are currently reading a series of [Handbook of Labor Economics](https://www.sciencedirect.com/handbook/handbook-of-labor-economics).
+Each contributor chooses one that interests them.
 
 ## Contributor
 
@@ -38,5 +39,5 @@ https://www.sciencedirect.com/handbook/handbook-of-labor-economics
 |:--:|:--:|:--:|
 | ~~2019/09~~ (DONE) | Dong, Tung| Vol.2 Chap.21, Vol.3 Chap.43 |  
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11, Vol.4 Chap 16, Vol.4 Chap.15 |  
-| 2020/02/17 Morning | Dong, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
+| 2020/02/17 Afternoon | Dong, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
 | 2020/03/?? Morning? | Tung, Ike | Vol.3 Chap.23, TBA | 
