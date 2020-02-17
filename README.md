@@ -29,7 +29,8 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 
 ### TO READ
 
-TBA
+- **8. Gender Gaps in Education and Labor Markets**
+  - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
 
 ### SOMEDAY
 
