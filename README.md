@@ -6,7 +6,7 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 
 ## Contributor
 
-- Dong-san
+- Xinwei-san
 - [Tung-san](https://github.com/s-saisw)
 - Ting-san
 - Ike-chan
@@ -41,9 +41,9 @@ TBA
 
 | Date | Presenter | Paper |  
 |:--:|:--:|:--:|
-| ~~2019/09~~ (DONE) | Dong, Tung| Vol.2 Chap.21, Vol.3 Chap.43 |  
+| ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21, Vol.3 Chap.43 |  
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11, Vol.4 Chap 16, Vol.4 Chap.15 |  
-| ~~2020/02/17 Afternoon~~ (DONE) | Dong, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
+| ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
 | 2020/03/05 Morning? | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets | 
 | 2020/03/?? | Ting, Ike | 3.  The Task Framework |
 | 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions | 
