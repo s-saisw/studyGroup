@@ -2,7 +2,7 @@
 
 We have read some chapters from a series of [Handbook of Labor Economics](https://www.sciencedirect.com/handbook/handbook-of-labor-economics).
 Each contributor chooses one that interests them.
-From next time, we are reading papers on [Autor's rading list](https://economics.mit.edu/files/15417).
+From next time, we are reading papers on [Autor's reading list](https://economics.mit.edu/files/15417).
 
 ## Contributor
 
