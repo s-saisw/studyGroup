@@ -20,6 +20,7 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 
 - [Vol.2 Chap.21: Segmented Labor Market](https://www.sciencedirect.com/science/article/pii/S1573446386020114)
 - [Vol.3 Chap.43: Labor Market in Developing Countries](https://www.sciencedirect.com/science/article/pii/S1573446399300298)
+- [Vol.3 Chap.49: New developments in the economic analysis of retirement](https://www.sciencedirect.com/science/article/pii/S1573446399300407)
 - [Vol.3 Chap.50: Health, health insurance and the labor market](https://www.sciencedirect.com/science/article/abs/pii/S1573446399300419)
 - [Vol.4 Chap.11: Imperfect Competition in the Labor Market](https://www.sciencedirect.com/science/article/pii/S0169721811024099)
 - [Vol.4 Chap.15: Human capital development before age five](https://www.sciencedirect.com/science/article/pii/S0169721811024130)
@@ -49,7 +50,7 @@ Market Incentives and Labor Market Investments](https://www.aeaweb.org/articles?
 
 | Date | Presenter | Paper |  
 |:--:|:--:|:--:|
-| ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21, Vol.3 Chap.43 |  
+| ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21, Vol.3 Chap.43, Vol.3 Chap.49 |  
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11, Vol.4 Chap 16, Vol.4 Chap.15 |  
 | ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
 | ~~2020/03/05 Afternoon~~ | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
