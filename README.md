@@ -27,10 +27,17 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 - [Vol.4 Chap.17: New Perspectives on Gender](https://www.sciencedirect.com/science/article/pii/S0169721811024154)
 - [Vol.4 Chap.20: Personnel Economics: Hiring and Incentives](https://www.sciencedirect.com/science/article/pii/S016972181102418X)
 
-### TO READ
+#### Autor's Reading List
 
 - **8. Gender Gaps in Education and Labor Markets**
   - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
+  - [Bursztyn, Fujiwara, and Pallais (2017) ‘Acting Wife’: Marriage
+Market Incentives and Labor Market Investments](https://www.aeaweb.org/articles?id=10.1257/aer.20170029)
+
+### TO READ
+
+- **4. The Task Framework**
+  - TBA
 
 ### SOMEDAY
 
@@ -45,8 +52,9 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 | ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21, Vol.3 Chap.43 |  
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11, Vol.4 Chap 16, Vol.4 Chap.15 |  
 | ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
-| 2020/03/05 Morning? | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets | 
-| 2020/03/?? | Ting, Ike | 3.  The Task Framework |
-| 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions | 
-| 2020/?? | Ting, Tung, Ike, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent|
+| ~~2020/03/05 Afternoon~~ | Xinwei, Nume | 8. Gender: Autor, Dorn, and Hanson (2019), |
+| | | Bursztyn, Fujiwara, and Pallais (2017)  |
+| 2020/03/12 Morning? | Ting, Ike | 3.  The Task Framework |
+| 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions? | 
+| 2020/?? | Ting, Tung, Ike, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent?|
 | 2020/?? | TBA | TBA|
