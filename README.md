@@ -50,9 +50,9 @@ Market Incentives and Labor Market Investments](https://www.aeaweb.org/articles?
 
 | Date | Presenter | Paper |  
 |:--:|:--:|:--:|
-| ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21, Vol.3 Chap.43, Vol.3 Chap.49 |  
-| ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11, Vol.4 Chap 16, Vol.4 Chap.15 |  
-| ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43, Vol.4 Chap.15 (Cont.), Vol.4 Chap.20 |  
+| ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21 <br> Vol.3 Chap.43 <br> Vol.3 Chap.49 <br> Vol.4 Chap.16 |  
+| ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11 <br> Vol.4 Chap 16 <br> Vol.4 Chap.15 |  
+| ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43 <br> Vol.4 Chap.15 (Cont.) <br> Vol.4 Chap.20 |  
 | ~~2020/03/05 Afternoon~~ | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
 | 2020/03/12 Morning? | Ting, Ike | 3.  The Task Framework |
 | 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions? | 
