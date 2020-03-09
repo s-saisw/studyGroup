@@ -41,14 +41,14 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
   - [Beaudry, Green, and Sand (2014) The Declining Fortunes of
 the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
   - [Chetty, Hendren, Kline, Saez, and Turner (2014)
-Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility. _AER P&P_]](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.141)
+Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.141)
   - [Katz and Krueger (2017) Documenting Decline in U.S. Economic
 Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary)
   - [Saez and Zucman (2016) Wealth Inequality in the United States Since
 1913: Evidence from Capitalized Income Tax Data. _QJE_](https://academic.oup.com/qje/article/131/2/519/2607097)
 - **4. The Task Framework**
   - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and
-Work. _NBER Working Paper_](https://www.nber.org/papers/w24196)
+Work. _NBER WP](https://www.nber.org/papers/w24196)
   - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
 Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
 
