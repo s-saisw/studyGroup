@@ -31,14 +31,26 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 #### Autor's Reading List
 
 - **8. Gender Gaps in Education and Labor Markets**
-  - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
+  - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men. _AER Insights_](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
   - [Bursztyn, Fujiwara, and Pallais (2017) ‘Acting Wife’: Marriage
-Market Incentives and Labor Market Investments](https://www.aeaweb.org/articles?id=10.1257/aer.20170029)
+Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.20170029)
 
 ### TO READ
 
+- **1.  Inequality: Some Facts and Questions**
+  - [Beaudry, Green, and Sand (2014) The Declining Fortunes of
+the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
+  - [Chetty, Hendren, Kline, Saez, and Turner (2014)
+Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility. _AER P&P_]](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.141)
+  - [Katz and Krueger (2017) Documenting Decline in U.S. Economic
+Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary)
+  - [Saez and Zucman (2016) Wealth Inequality in the United States Since
+1913: Evidence from Capitalized Income Tax Data. _QJE_](https://academic.oup.com/qje/article/131/2/519/2607097)
 - **4. The Task Framework**
-  - TBA
+  - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and
+Work. _NBER Working Paper_](https://www.nber.org/papers/w24196)
+  - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
+Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
 
 ### SOMEDAY
 
@@ -53,8 +65,8 @@ Market Incentives and Labor Market Investments](https://www.aeaweb.org/articles?
 | ~~2019/09~~ (DONE) | Xinwei, Tung| Vol.2 Chap.21 <br> Vol.3 Chap.43 <br> Vol.3 Chap.49 <br> Vol.4 Chap.16 |  
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11 <br> Vol.4 Chap 16 <br> Vol.4 Chap.15 |  
 | ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43 <br> Vol.4 Chap.15 (Cont.) <br> Vol.4 Chap.20 |  
-| ~~2020/03/05 Afternoon~~ | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
-| 2020/03/12 Morning? | Ting, Ike | 3.  The Task Framework |
-| 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions? | 
+| ~~2020/03/05 Afternoon~~ (DONE) | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
+| 2020/03/12 Morning? | Ting, Ike | 3.  The Task Framework: <br> Acemoglu and Restrepo (2018) NBER <br> Goos, Manning, and Salomons (2014) |
+| 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) <br> Saez and Zucman (2016) | 
 | 2020/?? | Ting, Tung, Ike, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent?|
-| 2020/?? | TBA | TBA|
+| 2020/?? | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets |
