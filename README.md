@@ -2,15 +2,15 @@
 
 We have read some chapters from a series of [Handbook of Labor Economics](https://www.sciencedirect.com/handbook/handbook-of-labor-economics).
 Each contributor chooses one that interests them.
-From next time, we are reading papers on [Autor's reading list](https://economics.mit.edu/files/15417).
+Since March 2020, we have been reading the papers on [Autor's reading list](https://economics.mit.edu/files/15417), depending on each one's interests.
 
 ## Contributor
 
 - Xinwei-san
 - [Tung-san](https://github.com/s-saisw)
 - Ting-san
-- Ike-chan
-- Nume-chan
+- Ike-san
+- Nume-san
 
 ## Chapter
 
@@ -30,6 +30,11 @@ From next time, we are reading papers on [Autor's reading list](https://economic
 
 #### Autor's Reading List
 
+- **4. The Task Framework**
+  - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and
+Work. _NBER WP_](https://www.nber.org/papers/w24196)
+  - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
+Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
 - **8. Gender Gaps in Education and Labor Markets**
   - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men. _AER Insights_](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
   - [Bursztyn, Fujiwara, and Pallais (2017) ‘Acting Wife’: Marriage
@@ -42,15 +47,14 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
   - [Chetty, Hendren, Kline, Saez, and Turner (2014)
 Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.141)
+  - [Corak (2013) Income Inequality, Equality of Opportunity, and Intergenerational
+Mobility. _Journal of Economic Perspectives_](https://www.aeaweb.org/articles?id=10.1257/jep.27.3.79)
   - [Katz and Krueger (2017) Documenting Decline in U.S. Economic
 Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary)
   - [Saez and Zucman (2016) Wealth Inequality in the United States Since
 1913: Evidence from Capitalized Income Tax Data. _QJE_](https://academic.oup.com/qje/article/131/2/519/2607097)
 - **4. The Task Framework**
-  - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and
-Work. _NBER WP_](https://www.nber.org/papers/w24196)
-  - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
-Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
+  - TBA
 
 ### SOMEDAY
 
@@ -66,7 +70,8 @@ Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.or
 | ~~2020/02/10 Afternoon~~ (DONE)| Tung, Ike, Nume| Vol.4 Chap.11 <br> Vol.4 Chap 16 <br> Vol.4 Chap.15 |  
 | ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43 <br> Vol.4 Chap.15 (Cont.) <br> Vol.4 Chap.20 |  
 | ~~2020/03/05 Afternoon~~ (DONE) | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
-| 2020/03/12 Morning? | Ting, Ike | 3.  The Task Framework: <br> Acemoglu and Restrepo (2018) NBER <br> Goos, Manning, and Salomons (2014) |
-| 2020/?? | Tung, Ike, Xinwei, Nume | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) <br> Saez and Zucman (2016) | 
+| ~~2020/03/12 Afternoon~~ (DONE) | Ting, Ike | 3.  The Task Framework: <br> Acemoglu and Restrepo (2018) NBER <br> Goos, Manning, and Salomons (2014) |
+| 2020/03/19 Morning? | Tung, Xinwei | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) | 
+| 2020/03/31 Mornings? | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> TBA <br> Saez and Zucman (2016)| 
 | 2020/?? | Ting, Tung, Ike, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent?|
 | 2020/?? | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets |
