@@ -30,6 +30,16 @@ Since March 2020, we have been reading the papers on [Autor's reading list](http
 
 #### Autor's Reading List
 
+- **1.  Inequality: Some Facts and Questions**
+  - [Beaudry, Green, and Sand (2014) The Declining Fortunes of
+the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
+  - [Chetty, Hendren, Kline, Saez, and Turner (2014)
+Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.141)
+  - [Corak (2013) Income Inequality, Equality of Opportunity, and Intergenerational
+Mobility. _Journal of Economic Perspectives_](https://www.aeaweb.org/articles?id=10.1257/jep.27.3.79)
+  - [Katz and Krueger (2017) Documenting Decline in U.S. Economic
+Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary)
+
 - **4. The Task Framework**
   - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and
 Work. _NBER WP_](https://www.nber.org/papers/w24196)
@@ -43,16 +53,8 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 ### TO READ
 
 - **1.  Inequality: Some Facts and Questions**
-  - [Beaudry, Green, and Sand (2014) The Declining Fortunes of
-the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
-  - [Chetty, Hendren, Kline, Saez, and Turner (2014)
-Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.141)
-  - [Corak (2013) Income Inequality, Equality of Opportunity, and Intergenerational
-Mobility. _Journal of Economic Perspectives_](https://www.aeaweb.org/articles?id=10.1257/jep.27.3.79)
-  - [Katz and Krueger (2017) Documenting Decline in U.S. Economic
-Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary)
-  - [Saez and Zucman (2016) Wealth Inequality in the United States Since
-1913: Evidence from Capitalized Income Tax Data. _QJE_](https://academic.oup.com/qje/article/131/2/519/2607097)
+  - [Atkinson, Piketty, and Saez (2011) Top Incomes in the Long Run of History. _Journal of Economic Literature_](https://www.aeaweb.org/articles?id=10.1257/jel.49.1.3)
+  - [~~Saez and Zucman (2016) Wealth Inequality in the United States Since 1913: Evidence from Capitalized Income Tax Data. _QJE_~~](https://academic.oup.com/qje/article/131/2/519/2607097)
 - **4. The Task Framework**
   - TBA
 
@@ -71,7 +73,7 @@ Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary
 | ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43 <br> Vol.4 Chap.15 (Cont.) <br> Vol.4 Chap.20 |  
 | ~~2020/03/05 Afternoon~~ (DONE) | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
 | ~~2020/03/12 Afternoon~~ (DONE) | Ting, Ike | 3.  The Task Framework: <br> Acemoglu and Restrepo (2018) NBER <br> Goos, Manning, and Salomons (2014) |
-| 2020/03/19 Morning? | Tung, Xinwei | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) | 
-| 2020/03/31 Mornings? | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> TBA <br> Saez and Zucman (2016)| 
+| ~~2020/03/19 Afternoon~~ | Tung, Xinwei | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) | 
+| 2020/03/31 Mornings? | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> Atkinson, Piketty, and Saez (2011) <br>| 
 | 2020/?? | Ting, Tung, Ike, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent?|
 | 2020/?? | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets |
