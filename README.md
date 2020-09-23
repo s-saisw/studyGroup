@@ -31,7 +31,7 @@ Since March 2020, we have been reading the papers on [Autor's reading list](http
 #### Autor's Reading List
 
 - **1.  Inequality: Some Facts and Questions**
-  - [Aguiar and Bils (2015) Has Consumption Inequality Mirrored Income Inequality?](https://www.aeaweb.org/articles?id=10.1257/aer.20120599)
+  - [Aguiar and Bils (2015) Has Consumption Inequality Mirrored Income Inequality? _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.20120599)
   - [Atkinson, Piketty, and Saez (2011) Top Incomes in the Long Run of History. _Journal of Economic Literature_](https://www.aeaweb.org/articles?id=10.1257/jel.49.1.3)
   - [Beaudry, Green, and Sand (2014) The Declining Fortunes of
 the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
@@ -46,6 +46,9 @@ Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary
 Work. _NBER WP_](https://www.nber.org/papers/w24196)
   - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
 Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
+- **4. Market Structure, Organizational Structure, and the Returns to Talent**
+  - [Bnnedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (2007) Inside the Family Firm: The Role of Families in Succession Decisions and Performance. _QJE_](https://academic.oup.com/qje/article/122/2/647/1942108)
+  - [Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten, Van Reenen (2019) What Drives Differences in Management Practices? _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
 - **8. Gender Gaps in Education and Labor Markets**
   - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men. _AER Insights_](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
   - [Bursztyn, Fujiwara, and Pallais (2017) ‘Acting Wife’: Marriage
@@ -55,7 +58,8 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 
 
 - **4. Market Structure, Organizational Structure, and the Returns to Talent**
-  - TBD
+  - [Benson, Li, and Shue (2019) Promotions and the Peter Principle. _QJE_](https://academic.oup.com/qje/article/134/4/2085/5550760)
+  - [Bertrand and Schoar (2003) Managing with Style: The Effect of Managers on Firm Policies. _QJE_](https://academic.oup.com/qje/article/118/4/1169/1925095)
 
 ### SOMEDAY
 
@@ -74,5 +78,5 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 | ~~2020/03/12 Afternoon~~ (DONE) | Ting, Ike | 3.  The Task Framework: <br> Acemoglu and Restrepo (2018) NBER <br> Goos, Manning, and Salomons (2014) |
 | ~~2020/03/19 Afternoon~~ | Tung, Xinwei | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) | 
 | ~~2020/08/24 Afternoon~~ | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> Aguiar and Bils (2015) <br> Atkinson, Piketty, and Saez (2011) <br>| 
-| 2020/09/07 Morning? | Tung, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent|
-| 2020/09/24 Morning? | Ike, Nume |4. Market Structure, Organizational Structure, and the Returns to Talent|
+| ~~2020/09/07 Afternoon~~ | Tung, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent <br> Bnnedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (2007) <br> Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten, Van Reenen (2019)|
+| 2020/09/24 Morning? | Ike, Nume |4. Market Structure, Organizational Structure, and the Returns to Talent <br> Benson, Li, and Shue (2019) <br> Bertrand and Schoar (2003) |
