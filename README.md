@@ -10,7 +10,7 @@ Since March 2020, we have been reading the papers on [Autor's reading list](http
 - [Tung-san](https://github.com/s-saisw)
 - Ting-san
 - Ike-san
-- Nume-san
+- [Nume-san](https://github.com/kainume)
 
 ## Chapter
 
@@ -47,6 +47,8 @@ Work. _NBER WP_](https://www.nber.org/papers/w24196)
   - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
 Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
 - **4. Market Structure, Organizational Structure, and the Returns to Talent**
+  - [Benson, Li, and Shue (2019) Promotions and the Peter Principle. _QJE_](https://academic.oup.com/qje/article/134/4/2085/5550760)
+  - [Bertrand and Schoar (2003) Managing with Style: The Effect of Managers on Firm Policies. _QJE_](https://academic.oup.com/qje/article/118/4/1169/1925095)
   - [Bnnedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (2007) Inside the Family Firm: The Role of Families in Succession Decisions and Performance. _QJE_](https://academic.oup.com/qje/article/122/2/647/1942108)
   - [Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten, Van Reenen (2019) What Drives Differences in Management Practices? _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
 - **8. Gender Gaps in Education and Labor Markets**
@@ -56,10 +58,9 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 
 ### TO READ
 
+- **11. The Evolution of Household Structure**
+  - TBA
 
-- **4. Market Structure, Organizational Structure, and the Returns to Talent**
-  - [Benson, Li, and Shue (2019) Promotions and the Peter Principle. _QJE_](https://academic.oup.com/qje/article/134/4/2085/5550760)
-  - [Bertrand and Schoar (2003) Managing with Style: The Effect of Managers on Firm Policies. _QJE_](https://academic.oup.com/qje/article/118/4/1169/1925095)
 
 ### SOMEDAY
 
@@ -76,7 +77,9 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 | ~~2020/02/17 Afternoon~~ (DONE) | Xinwei, Nume, Ting | Vol.3 Chap.43 <br> Vol.4 Chap.15 (Cont.) <br> Vol.4 Chap.20 |  
 | ~~2020/03/05 Afternoon~~ (DONE) | Xinwei, Nume | 8. Gender Gaps in Education and Labor Markets: <br> Autor, Dorn, and Hanson (2019), <br> Bursztyn, Fujiwara, and Pallais (2017)  |
 | ~~2020/03/12 Afternoon~~ (DONE) | Ting, Ike | 3.  The Task Framework: <br> Acemoglu and Restrepo (2018) NBER <br> Goos, Manning, and Salomons (2014) |
-| ~~2020/03/19 Afternoon~~ | Tung, Xinwei | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) | 
-| ~~2020/08/24 Afternoon~~ | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> Aguiar and Bils (2015) <br> Atkinson, Piketty, and Saez (2011) <br>| 
-| ~~2020/09/07 Afternoon~~ | Tung, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent <br> Bnnedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (2007) <br> Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten, Van Reenen (2019)|
-| 2020/09/24 Morning? | Ike, Nume |4. Market Structure, Organizational Structure, and the Returns to Talent <br> Benson, Li, and Shue (2019) <br> Bertrand and Schoar (2003) |
+| ~~2020/03/19 Afternoon~~ (DONE) | Tung, Xinwei | 1. Inequality: Some Facts and Questions?: <br> Beaudry, Green, and Sand (2014) <br> Chetty, Hendren, Kline, Saez, and Turner (2014) <br> Katz and Krueger (2017) | 
+| ~~2020/08/24 Afternoon~~ (DONE) | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> Aguiar and Bils (2015) <br> Atkinson, Piketty, and Saez (2011) <br>| 
+| ~~2020/09/07 Afternoon~~ (DONE) | Tung, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent <br> Bnnedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (2007) <br> Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten, Van Reenen (2019)|
+| ~~2020/09/24 Afternoon~~ (DONE) | Ike, Nume |4. Market Structure, Organizational Structure, and the Returns to Talent <br> Benson, Li, and Shue (2019) <br> Bertrand and Schoar (2003) |
+| 2020/10 3rd Week~? | Xinwei, Tung | 11. The Evolution of Household Structure |
+| 2020/10? | Nume, Ike | 11. The Evolution of Household Structure |
