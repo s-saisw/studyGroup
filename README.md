@@ -32,7 +32,7 @@ Since March 2020, we have been reading the papers on [Autor's reading list](http
 
 - **1.  Inequality: Some Facts and Questions**
   - [Aguiar and Bils (2015) Has Consumption Inequality Mirrored Income Inequality? _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.20120599)
-  - [Atkinson, Piketty, and Saez (2011) Top Incomes in the Long Run of History. _Journal of Economic Literature_](https://www.aeaweb.org/articles?id=10.1257/jel.49.1.3)
+  - [Atkinson, Piketty, and Saez (2011) Top Incomes in the Long Run of History. _JEL_](https://www.aeaweb.org/articles?id=10.1257/jel.49.1.3)
   - [Beaudry, Green, and Sand (2014) The Declining Fortunes of
 the Young Since 2000. _AER P&P_](https://www.aeaweb.org/articles?id=10.1257/aer.104.5.381)
   - [Chetty, Hendren, Kline, Saez, and Turner (2014)
@@ -42,8 +42,7 @@ Mobility. _Journal of Economic Perspectives_](https://www.aeaweb.org/articles?id
   - [Katz and Krueger (2017) Documenting Decline in U.S. Economic
 Mobility. _Science_](https://science.sciencemag.org/content/356/6336/382.summary)
 - **3. The Task Framework**
-  - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and
-Work. _NBER WP_](https://www.nber.org/papers/w24196)
+  - [Acemoglu and Restrepo (2018) Artificial Intelligence, Automation and Work. _NBER WP_](https://www.nber.org/papers/w24196)
   - [Goos, Manning, and Salomons (2014) Explaining Job Polarization:
 Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2509)
 - **4. Market Structure, Organizational Structure, and the Returns to Talent**
@@ -55,6 +54,9 @@ Routine-Biased Technological Change and Offshoring. _AER_](https://www.aeaweb.or
   - [Autor, Dorn, and Hanson (2019) When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men. _AER Insights_](https://www.aeaweb.org/articles?id=10.1257/aeri.20180010)
   - [Bursztyn, Fujiwara, and Pallais (2017) ‘Acting Wife’: Marriage
 Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/articles?id=10.1257/aer.20170029)
+- **11. The Evolution of Household Structure**
+  - [Goldin and Katz (2002) The power of the pill: Oral contraceptives and women’s career and marriage decisions. _JPE_](https://www.journals.uchicago.edu/doi/full/10.1086/340778)
+  - [Persson (2020) Social Insurance and the Marriage Market. _JPE_](https://www.journals.uchicago.edu/doi/full/10.1086/704073?af=R&mobileUi=0)
 
 ### TO READ
 
@@ -81,5 +83,5 @@ Market Incentives and Labor Market Investments. _AER_](https://www.aeaweb.org/ar
 | ~~2020/08/24 Afternoon~~ (DONE) | Ike, Nume | 1. Inequality: Some Facts and Questions?: <br> Aguiar and Bils (2015) <br> Atkinson, Piketty, and Saez (2011) <br>| 
 | ~~2020/09/07 Afternoon~~ (DONE) | Tung, Xinwei | 4. Market Structure, Organizational Structure, and the Returns to Talent <br> Bnnedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (2007) <br> Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten, Van Reenen (2019)|
 | ~~2020/09/24 Afternoon~~ (DONE) | Ike, Nume |4. Market Structure, Organizational Structure, and the Returns to Talent <br> Benson, Li, and Shue (2019) <br> Bertrand and Schoar (2003) |
-| 2020/10 3rd Week~? | Xinwei, Tung | 11. The Evolution of Household Structure |
-| 2020/10? | Nume, Ike | 11. The Evolution of Household Structure |
+| ~~2020/10/27 Afternoon~~ (DONE) | Xinwei, Tung | 11. The Evolution of Household Structure <br> Goldin and Katz (2002) <br> Persson (2020) |
+| 2021? | Nume, Ike | 11. The Evolution of Household Structure |
